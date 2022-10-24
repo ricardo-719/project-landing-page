@@ -15,4 +15,8 @@ For documentation I'll be describing my step by step procedure on this page:
 8. Complete "quote", 4th section
 9. Complete "call-to-action", 5th section
 10. Complete "footer", 6th and final section
-11. Start implementing the design following the same order as before, from top to bottom
+11. Add style.css link to head and move to design [style.css], go from top to bottom
+12. Use global *, for this project use standard box-sizing: border-box and set 0 margin/padding
+13. Set body to display flex, direction column and center (empty div 'divider' will separate the elements as needed)
+14. Style header: use flex, space around, and separate right links using divider div. Set gaps accordingly
+15. 
