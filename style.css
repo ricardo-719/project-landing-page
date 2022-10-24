@@ -129,3 +129,45 @@ button {
     max-width: 150px;
     flex-wrap: wrap;
 }
+
+.quote {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #E5E7EB;
+    width: 100%;
+    height: 400px;
+}
+
+.q1-0 {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    width: 880px;
+}
+
+.q1-1 {
+    font-weight: 700;
+    font-size: 18px;
+    color: #1F2937;
+    margin-left: 450px;
+    align-self:auto;
+}
+
+.call-to-action {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 32px;
+    background-color:#3882F6;
+    width: 780px;
+    height: 100px;
+    color: #F9FAF8;
+    border-radius: 12px;
+    margin: 45px
+}
+
+.call-to-action button {
+    border: 2px solid white;
+}

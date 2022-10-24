@@ -19,4 +19,8 @@ For documentation I'll be describing my step by step procedure on this page:
 12. Use global *, for this project use standard box-sizing: border-box and set 0 margin/padding
 13. Set body to display flex, direction column and center (empty div 'divider' will separate the elements as needed)
 14. Style header: use flex, space around, and separate right links using divider div. Set gaps accordingly
-15. 
+15. Style intro
+16. Style info
+17. Style quote
+18. Style call-to-action
+19. Style footer
